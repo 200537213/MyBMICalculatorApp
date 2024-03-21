@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499706797591",
+    "project_id": "bmicalculator-39bfa",
+    "storage_bucket": "bmicalculator-39bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499706797591:android:01727c35dc378a73610652",
+        "android_client_info": {
+          "package_name": "georgian.mehak.mybmicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssv--oTsEsP-v2kEHZ6tvDQPlJ4revyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
